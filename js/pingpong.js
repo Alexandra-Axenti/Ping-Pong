@@ -1,6 +1,6 @@
 function Calculator(skinName) {
   this.skin = skinName;
-};
+}
 
 Calculator.prototype.pingPong = function(goal) {
   var output = [];
